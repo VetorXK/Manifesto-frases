@@ -197,36 +197,36 @@
   {
     "id": 40,
     "titulo": "Fac",
-    "texto": "Não informou em FAC exceção do comp residencia pelo ph3a devido documento em atraso."
+    "texto": "Proposta deveria ter sido negada por cliente com mais de 1 alteração bancária."
   },
   {
     "id": 41,
     "titulo": "Fac",
-    "texto": "Proposta deveria ter sido negada por cliente com mais de 1 alteração bancária."
+    "texto": "Status da fac preenchido incorretamente."
   },
   {
     "id": 42,
     "titulo": "Fac",
-    "texto": "Status da fac preenchido incorretamente."
+    "texto": "Não alterou valor solicitado."
   },
   {
     "id": 43,
     "titulo": "Fac",
-    "texto": "Não alterou valor solicitado."
+    "texto": "Não alterou regra de pagamento de acordo com Pagben."
   },
   {
     "id": 44,
     "titulo": "Fac",
-    "texto": "Não alterou regra de pagamento de acordo com Pagben."
+    "texto": "Não alterou status da fac."
   },
   {
     "id": 45,
     "titulo": "Fac",
-    "texto": "Não alterou status da fac."
+    "texto": "Não informou em FAC validação do comprovante de renda no Meu INSS."
   },
   {
     "id": 46,
     "titulo": "Fac",
-    "texto": "Não informou em FAC validação do comprovante de renda no Meu INSS."
+    "texto": "Não informou em FAC validação do documento de identificação."
   }
 ]
