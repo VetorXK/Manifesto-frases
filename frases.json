@@ -1,231 +1,231 @@
 [
   {
-    "id": 1,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Naturalidade incorreta."
   },
   {
-    "id": 2,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Nome do pai incorreto."
   },
   {
-    "id": 3,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Nome da mãe incorreto."
   },
   {
-    "id": 4,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Número do RG incorreto."
   },
   {
-    "id": 5,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Estado civil incorreto."
   },
   {
-    "id": 6,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Nome do pai com caractere especial."
   },
   {
-    "id": 7,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Nome da mãe com caractere especial."
   },
   {
-    "id": 8,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "UF emissor incorreto."
   },
   {
-    "id": 9,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Não alterou tipo de documento de identificação."
   },
   {
-    "id": 10,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Não alterou órgão emissor."
   },
   {
-    "id": 11,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Não alterou data de emissão identidade."
   },
   {
-    "id": 12,
+    "esteira": "Prioridade",
     "titulo": "Identidade",
     "texto": "Sexo incorreto."
   },
   {
-    "id": 13,
+    "esteira": "Prioridade",
     "titulo": "Comp Residência",
     "texto": "Não pendenciou comprovante de residência legível."
   },
   {
-    "id": 14,
+    "esteira": "Prioridade",
     "titulo": "Comp Residência",
     "texto": "Não pendenciou comprovante de residência dentro das normas."
   },
   {
-    "id": 15,
+    "esteira": "Prioridade",
     "titulo": "Comp Residência",
     "texto": "Não pendenciou comprovante de residência dentro do prazo de 180 dias."
   },
   {
-    "id": 16,
+    "esteira": "Prioridade",
     "titulo": "Comp Residência",
     "texto": "Não pendenciou declaração de residência conforme comprovante."
   },
   {
-    "id": 17,
+    "esteira": "Prioridade",
     "titulo": "Comp Residência",
     "texto": "Não alterou o endereço."
   },
   {
-    "id": 18,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Não pendenciou comprovante de renda."
   },
   {
-    "id": 19,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Não pendenciou comprovante de renda com Qr Code."
   },
   {
-    "id": 20,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Não pendenciou comprovante de renda legível."
   },
   {
-    "id": 21,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Não alterou data concessão benefício."
   },
   {
-    "id": 22,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Base de cálculo incorreta (Renda líquida)."
   },
   {
-    "id": 23,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Base de cálculo incorreta (Renda Bruta)."
   },
   {
-    "id": 24,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "MR incorreta."
   },
   {
-    "id": 25,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Alteração Regra de pagamento preenchido incorretamente."
   },
   {
-    "id": 26,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Não pendenciou os últimos 12 hiscres para verificação do meio de recebimento."
   },
   {
-    "id": 27,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Regra de pagamento errada."
   },
   {
-    "id": 28,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Data do último recebimento errada."
   },
   {
-    "id": 29,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Não alterou regra de pagamento."
   },
   {
-    "id": 30,
+    "esteira": "Prioridade",
     "titulo": "Comp Renda",
     "texto": "Não alterou UF do benefício."
   },
   {
-    "id": 31,
+    "esteira": "Prioridade",
     "titulo": "Extrato",
     "texto": "Não pendenciou extrato completo."
   },
   {
-    "id": 32,
+    "esteira": "Prioridade",
     "titulo": "Extrato",
     "texto": "Não pendenciou extrato com último pagamento."
   },
   {
-    "id": 33,
+    "esteira": "Prioridade",
     "titulo": "Extrato",
     "texto": "Não pendenciou extrato com último pagamento legível."
   },
   {
-    "id": 34,
+    "esteira": "Prioridade",
     "titulo": "Extrato",
     "texto": "Não pendenciou extrato legível."
   },
   {
-    "id": 35,
+    "esteira": "Prioridade",
     "titulo": "Extrato",
     "texto": "Não pendenciou documento banco crédito."
   },
   {
-    "id": 36,
+    "esteira": "Prioridade",
     "titulo": "Formalização",
     "texto": "Não pendenciou selfie nítida."
   },
   {
-    "id": 37,
+    "esteira": "Prioridade",
     "titulo": "Formalização",
     "texto": "Biometria facial não preenchida."
   },
   {
-    "id": 38,
+    "esteira": "Prioridade",
     "titulo": "Formalização",
     "texto": "Biometria facial preenchido incorretamente."
   },
   {
-    "id": 39,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Cliente BMG preenchido incorretamente."
   },
   {
-    "id": 40,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Proposta deveria ter sido negada por cliente com mais de 1 alteração bancária."
   },
   {
-    "id": 41,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Status da fac preenchido incorretamente."
   },
   {
-    "id": 42,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Não alterou valor solicitado."
   },
   {
-    "id": 43,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Não alterou regra de pagamento de acordo com Pagben."
   },
   {
-    "id": 44,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Não alterou status da fac."
   },
   {
-    "id": 45,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Não informou em FAC validação do comprovante de renda no Meu INSS."
   },
   {
-    "id": 46,
+    "esteira": "Prioridade",
     "titulo": "Fac",
     "texto": "Não informou em FAC validação do documento de identificação."
   }
